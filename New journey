@@ -1,14 +1,10 @@
-<doctype.html>
-<html>
-<head>
-<title> The Way of becoming somali web dev</title>
-</head>
-<body>
-<p> I want to become web dev one day and my journey start today hopefully ill make my dream come true inshalah</p>
-<h3>Objectives of next 3 Month</h3>
-<ol>
-<il>HTML</il>
-<il>CSS</il>
-<il>javascript</il>
-</body>
-</html>
+somali-project/
+├── assets/
+│   ├── images/
+│   ├── css/
+│   └── js/
+├── pages/
+│   ├── index.html
+│   ├── about.html
+│   └── contact.html
+└── README.md
