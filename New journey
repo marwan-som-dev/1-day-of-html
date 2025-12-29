@@ -1,10 +1,8 @@
-somali-project/
-├── assets/
-│   ├── images/
-│   ├── css/
-│   └── js/
-├── pages/
-│   ├── index.html
-│   ├── about.html
-│   └── contact.html
-└── README.md
+# 📚 [Frontend Dev] Learning Journey
+
+**Start Date:** [29/12/2025]  
+**Status:** In Progress   
+**Goal:** Master [HTML/CSS/JAVASCRIPT] in [2 months]
+
+## 🎯 About This Repository
+This repository documents my journey learning [HTML/CSS/JAVASCRIPT] as a BIT student from Somalia. Here, I practice, experiment, and build small projects to solidify my understanding.
